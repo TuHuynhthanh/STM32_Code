@@ -1,0 +1,1 @@
+stm103_spi_sd_card\startup_stm32f103xb.o: startup_stm32f103xb.s
